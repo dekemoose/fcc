@@ -1,5 +1,4 @@
-{
-	"author": "Josh Welch",
+{"author": "Josh Welch",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
